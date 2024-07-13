@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T05:36:11.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.6.5" etag="_c-fy1s_8puAfcVinslC" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T06:59:06.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="558eijkK0pOiayunhoDN" version="24.6.5" type="github">
   <diagram name="第 1 页" id="p7ZE5MqBB8z5IuCJADYC">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ar3_D9RQlo8Y2Gy-1iei-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ar3_D9RQlo8Y2Gy-1iei-2" target="ar3_D9RQlo8Y2Gy-1iei-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3_D9RQlo8Y2Gy-1iei-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ar3_D9RQlo8Y2Gy-1iei-2" target="ar3_D9RQlo8Y2Gy-1iei-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3_D9RQlo8Y2Gy-1iei-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ar3_D9RQlo8Y2Gy-1iei-2" target="ar3_D9RQlo8Y2Gy-1iei-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3_D9RQlo8Y2Gy-1iei-2" value="busiType_getById" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3_D9RQlo8Y2Gy-1iei-4" value="关联信息：busiDocumentTypes:[]" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3_D9RQlo8Y2Gy-1iei-9" value="公司主体属性关联：&lt;div&gt;busiTypeRelList:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; busiDocumentTypes:[]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="360" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
